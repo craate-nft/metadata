@@ -1,0 +1,13 @@
+{
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "bottle_year",
+      "value": 2020
+    }
+  ],
+  "description": "A delicious caymus wine that will also pay us lots of money!",
+  "external_url": "https://craatenft.com/#/batch/2",
+  "image": "https://raw.githubusercontent.com/craate-nft/metadata/master/bottle/0000000000000000000000000000000000000000000000000000000000000002.gif",
+  "name": "Caymus, Pino 2020"
+}

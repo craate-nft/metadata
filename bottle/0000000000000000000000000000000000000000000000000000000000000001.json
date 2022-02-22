@@ -1,0 +1,13 @@
+{
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "bottle_year",
+      "value": 2021
+    }
+  ],
+  "description": "A delicious red wine that will pay us lots of money!",
+  "external_url": "https://craatenft.com/#/batch/1",
+  "image": "https://raw.githubusercontent.com/craate-nft/metadata/master/bottle/0000000000000000000000000000000000000000000000000000000000000001.gif",
+  "name": "Bernadus, Merlot 2021"
+}

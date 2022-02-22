@@ -1,0 +1,13 @@
+{
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "bottle_year",
+      "value": 2022
+    }
+  ],
+  "description": "A bottle made of GOLD!",
+  "external_url": "https://craatenft.com/#/batch/3",
+  "image": "https://raw.githubusercontent.com/craate-nft/metadata/master/bottle/0000000000000000000000000000000000000000000000000000000000000003.gif",
+  "name": "Crate 2022 - Golden bottle"
+}
