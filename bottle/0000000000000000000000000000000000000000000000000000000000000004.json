@@ -1,0 +1,13 @@
+{
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "bottle_year",
+      "value": 1973
+    }
+  ],
+  "description": "Chateau Montelena is a Napa Valley winery most famous for winning the white wine section of the historic 'Judgment of Paris' wine competition.",
+  "external_url": "https://craatenft.com/#/batch/4",
+  "image": "https://raw.githubusercontent.com/craate-nft/metadata/master/bottle/0000000000000000000000000000000000000000000000000000000000000004.gif",
+  "name": "Chateau Montelena, 1973 Chardonnay"
+}
